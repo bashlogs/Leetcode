@@ -18,12 +18,6 @@ class Solution {
         }
     }
 
-    void print(int[] nums, int size){
-        for(int i=0; i<size; i++){
-            System.out.print(nums[i]+"\t");
-        }
-    }
-
     void heapsort(int a[], int size){
         int i, t;
         for(i=size-1; i > 0; i--){
@@ -34,7 +28,6 @@ class Solution {
         }
     }
 
-
     public int findKthLargest(int[] nums, int k) {
         int size=nums.length;
         int a = 0;
@@ -43,7 +36,6 @@ class Solution {
             
         }
         heapsort(nums,size);
-        print(nums, size);
         return nums[k-1];
     }
 }
