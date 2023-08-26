@@ -1,40 +1,42 @@
 class Solution {
 
-    int getHeight(TreeNode root) {
+    int height(TreeNode root) {
         if (root == null) {
             return 0;
+        } else {
+            int lheight = height(root.left);
+            int rheight = height(root.right);
+            return Math.max(lheight, rheight) + 1;
         }
-        int leftHeight = getHeight(root.left);
-        int rightHeight = getHeight(root.right);
-        return Math.max(leftHeight, rightHeight) + 1;
     }
 
-    void fillResult(TreeNode root, List<List<String>> result, int level, int left, int right) {
+    void printlevel(TreeNode root, List<List<String>> l2, int level, int left, int right) {
         if (root == null) {
             return;
         }
-        
+
         int mid = left + (right - left) / 2;
-        result.get(level).set(mid, Integer.toString(root.val));
+        l2.get(level).set(mid, Integer.toString(root.val));
+        printlevel(root.left, l2, level+1, left, mid-1);
+        printlevel(root.right, l2, level+1, mid+1, right);
+
         
-        fillResult(root.left, result, level + 1, left, mid - 1);
-        fillResult(root.right, result, level + 1, mid + 1, right);
     }
 
     public List<List<String>> printTree(TreeNode root) {
-        int height = getHeight(root);
-        int width = (1 << height) - 1; // Calculate the width of the resulting grid
-        
-        List<List<String>> result = new ArrayList<>();
-        for (int i = 0; i < height; i++) {
-            List<String> row = new ArrayList<>();
-            for (int j = 0; j < width; j++) {
-                row.add("");
+        int count = height(root);
+        int spaces = (1 << count) - 1;
+
+        List<List<String>> l1 = new ArrayList<>();
+        for (int i = 0; i < count; i++) {
+            List<String> l2 = new ArrayList<>();
+            for(int j=0; j<spaces; j++){
+                l2.add("");
             }
-            result.add(row);
+            l1.add(l2);
         }
-        
-        fillResult(root, result, 0, 0, width - 1);
-        return result;
+
+        printlevel(root, l1, 0, 0, spaces-1);
+        return l1;
     }
 }
