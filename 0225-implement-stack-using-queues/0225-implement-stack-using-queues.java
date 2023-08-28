@@ -1,37 +1,33 @@
 class MyStack {
 
-    int top;
-    int last;
-    int[] stack = new int[100];
-    
+    Queue<Integer> queue1 = new LinkedList<>();
+    Queue<Integer> queue2 = new LinkedList<>();
+    Queue<Integer> temp;
     public MyStack() {
-        top = -1;
-        last = -1;
     }
     
     public void push(int x) {
-        if(last == -1 && top == -1){
-            last = top = 0;
+        queue2.add(x);
+        while(!queue1.isEmpty()){
+            queue2.add(queue1.peek());
+            queue1.remove();
         }
-        stack[++top] = x;
 
+        temp=queue2;
+        queue2=queue1;
+        queue1=temp;
     }
     
     public int pop() {
-        return stack[top--];
+        return queue1.remove();
     }
     
     public int top() {
-        return stack[top];
+        return queue1.peek();
     }
     
     public boolean empty() {
-        if(top == -1 || last == top){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return queue1.isEmpty();
     }
 }
 
