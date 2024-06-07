@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 # Hash Table
 |  |
@@ -22,4 +23,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/bashlogs/Leetcode/tree/master/1894-merge-strings-alternately) |
+# Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
