@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 # Hash Table
@@ -29,3 +30,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
