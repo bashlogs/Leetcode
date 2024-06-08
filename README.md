@@ -11,11 +11,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/bashlogs/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 # String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/bashlogs/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 | [1894-merge-strings-alternately](https://github.com/bashlogs/Leetcode/tree/master/1894-merge-strings-alternately) |
