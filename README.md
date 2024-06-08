@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 # String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 | [1894-merge-strings-alternately](https://github.com/bashlogs/Leetcode/tree/master/1894-merge-strings-alternately) |
 # Trie
@@ -38,3 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
+# Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
