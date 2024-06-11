@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bashlogs/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/bashlogs/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 | [1217-relative-sort-array](https://github.com/bashlogs/Leetcode/tree/master/1217-relative-sort-array) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bashlogs/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/bashlogs/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/bashlogs/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
@@ -60,3 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/bashlogs/Leetcode/tree/master/1217-relative-sort-array) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bashlogs/Leetcode/tree/master/0128-longest-consecutive-sequence) |
