@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bashlogs/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/bashlogs/Leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/bashlogs/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
@@ -66,3 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bashlogs/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+# Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/bashlogs/Leetcode/tree/master/0071-simplify-path) |
