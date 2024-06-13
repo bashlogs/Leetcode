@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/bashlogs/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/bashlogs/Leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/bashlogs/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/bashlogs/Leetcode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/bashlogs/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/bashlogs/Leetcode/tree/master/0648-replace-words) |
 | [1894-merge-strings-alternately](https://github.com/bashlogs/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
+| [0224-basic-calculator](https://github.com/bashlogs/Leetcode/tree/master/0224-basic-calculator) |
 # Matrix
 |  |
 | ------- |
@@ -72,7 +74,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/bashlogs/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/bashlogs/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/bashlogs/Leetcode/tree/master/0224-basic-calculator) |
 # Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bashlogs/Leetcode/tree/master/0155-min-stack) |
+# Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/bashlogs/Leetcode/tree/master/0224-basic-calculator) |
