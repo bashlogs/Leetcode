@@ -38,16 +38,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/bashlogs/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/bashlogs/Leetcode/tree/master/1894-merge-strings-alternately) |
 # Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bashlogs/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/bashlogs/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/bashlogs/Leetcode/tree/master/0224-basic-calculator) |
+| [0633-sum-of-square-numbers](https://github.com/bashlogs/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Matrix
 |  |
 | ------- |
