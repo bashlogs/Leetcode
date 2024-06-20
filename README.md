@@ -88,3 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/bashlogs/Leetcode/tree/master/0224-basic-calculator) |
+# Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/bashlogs/Leetcode/tree/master/0052-n-queens-ii) |
