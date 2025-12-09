@@ -11,7 +11,7 @@ class Solution:
                 
             mul = (temp * 2) % mod
             if hmap1[mul] > 0 and hmap2[mul] > 0:
-                count += (hmap1[mul] * hmap2[mul]) % mod
+                count += hmap1[mul] * hmap2[mul]
                 count %= mod
             
             hmap1[temp] += 1
