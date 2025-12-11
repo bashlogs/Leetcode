@@ -1,7 +1,7 @@
 class Solution:
     def countCoveredBuildings(self, n: int, buildings: List[List[int]]) -> int:
         x_building = sorted(buildings, key = lambda x: (x[1], x[0]))
-        y_building = sorted(buildings, key = lambda x: (x[0], x[1]))
+        y_building = sorted(x_building, key = lambda x: (x[0]))
 
         map1 = defaultdict(int)
         count = 0
