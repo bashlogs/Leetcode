@@ -4,6 +4,7 @@ class Solution:
         y_building = sorted(buildings, key = lambda x: (x[0], x[1]))
 
         map1 = defaultdict(int)
+        count = 0
 
         for i in range(1, len(x_building) - 1):
             if x_building[i-1][1] == x_building[i][1]:
@@ -18,11 +19,8 @@ class Solution:
             
             if y_building[i][0] == y_building[i+1][0]:
                 map1[tuple(y_building[i])] += 1
-        
-        count = 0
-
-        for k, v in map1.items():
-            if v >= 4:
+            
+            if map1[tuple(y_building[i])] >= 4:
                 count += 1
 
         return count
