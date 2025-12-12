@@ -13,8 +13,8 @@ class Solution:
                 return
 
             rec(root.right)
-            root.val = root.val + self.last_num
-            self.last_num = root.val
+            self.last_num += root.val
+            root.val = self.last_num
             rec(root.left)
         
         rec(root)
