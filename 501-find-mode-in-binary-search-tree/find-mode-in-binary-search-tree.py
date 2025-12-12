@@ -9,7 +9,7 @@ class Solution:
         def dfs(root):
             if root == None:
                 return 
-                
+
             counter[root.val] += 1
             dfs(root.left)
             dfs(root.right)
@@ -19,8 +19,8 @@ class Solution:
         max_freq = max(counter.values())
 
         ans = []
-        for k, v in counter.items():
-            if v == max_freq:
+        for k in counter:
+            if counter[k] == max_freq:
                 ans.append(k)
         
         return ans
