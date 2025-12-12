@@ -6,17 +6,22 @@
 #         self.right = right
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
+        max_freq = 0
+        counter = defaultdict(int)
+
         def dfs(root):
+            nonlocal max_freq
             if root == None:
                 return 
 
             counter[root.val] += 1
+            if counter[root.val] > max_freq:
+                max_freq = counter[root.val]
+
             dfs(root.left)
             dfs(root.right)
 
-        counter = defaultdict(int)
         dfs(root)
-        max_freq = max(counter.values())
 
         ans = []
         for k in counter:
