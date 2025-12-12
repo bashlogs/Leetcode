@@ -7,8 +7,6 @@ class Solution:
 
         events = sorted(events, key = lambda x: (int(x[1]), 0 if x[0] == "OFFLINE" else 1))
 
-        print(events)
-
         for event, time, mentions in events:
             time = int(time)
 
