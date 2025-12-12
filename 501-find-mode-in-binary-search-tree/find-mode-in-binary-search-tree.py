@@ -9,7 +9,7 @@ class Solution:
         max_freq = 0
         counter = defaultdict(int)
 
-        def dfs(root):
+        def dfs(root, counter):
             nonlocal max_freq
             if root == None:
                 return 
@@ -18,10 +18,10 @@ class Solution:
             if counter[root.val] > max_freq:
                 max_freq = counter[root.val]
 
-            dfs(root.left)
-            dfs(root.right)
+            dfs(root.left, counter)
+            dfs(root.right, counter)
 
-        dfs(root)
+        dfs(root, counter)
 
         ans = []
         for k in counter:
