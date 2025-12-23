@@ -7,9 +7,10 @@ class Solution:
 
         while l <= h:
             mid = l + (h - l) // 2
-            if 3 ** mid == n:
+            val = 3 ** mid
+            if val == n:
                 return True
-            elif 3 ** mid > n:
+            elif val > n:
                 h = mid - 1
             else:
                 l = mid + 1
