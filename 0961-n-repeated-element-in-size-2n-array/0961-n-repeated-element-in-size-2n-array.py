@@ -1,13 +1,20 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         times = len(nums) // 2
-
-        hmap = defaultdict(int)
+        nums.sort()
+        count = 0
+        index = 0
 
         for num in nums:
-            hmap[num] += 1
-            if hmap[num] == times:
-                return num
+            if num == index:
+                count += 1
+            else:
+                count = 1
+
+            index = num
+
+            if count == times:
+                return index
         
         return -1
 
