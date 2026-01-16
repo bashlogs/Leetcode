@@ -5,10 +5,13 @@ class Solution:
         
         for id, time in logs:
             if time not in hashmap[id]:
-                if len(hashmap[id]) > 0:
-                    ans[len(hashmap[id]) - 1] -= 1
+                l = len(hashmap[id])
+                
+                if l > 0:
+                    ans[l - 1] -= 1
 
-                hashmap[id].add(time)
-                ans[len(hashmap[id]) - 1] += 1
-        
+                if time not in hashmap[id]:
+                    ans[l] += 1
+                    hashmap[id].add(time)
+
         return ans
