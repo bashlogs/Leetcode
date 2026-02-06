@@ -9,5 +9,5 @@ class Solution:
             while nums[j] > nums[i] * k:
                 i += 1
             max_len = max(max_len, j - i + 1)
-    
+            
         return n - max_len
