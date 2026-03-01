@@ -15,9 +15,9 @@ class Solution:
         10000
 
         """
-        max = 0
+        max = "0"
         for i in range(len(n)):
-            if int(n[i]) > max:
-                max = int(n[i])
+            if n[i] > max:
+                max = n[i]
         
-        return max
+        return int(max)
