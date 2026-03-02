@@ -95,15 +95,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bashlogs/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bashlogs/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1293-three-consecutive-odds](https://github.com/bashlogs/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 <!---LeetCode Topics End-->
