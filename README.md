@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bashlogs/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/bashlogs/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bashlogs/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bashlogs/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bashlogs/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bashlogs/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bashlogs/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
