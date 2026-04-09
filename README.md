@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bashlogs/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/bashlogs/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bashlogs/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bashlogs/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bashlogs/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bashlogs/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bashlogs/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bashlogs/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bashlogs/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
