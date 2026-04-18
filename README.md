@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bashlogs/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1293-three-consecutive-odds](https://github.com/bashlogs/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bashlogs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bashlogs/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bashlogs/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/bashlogs/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bashlogs/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
