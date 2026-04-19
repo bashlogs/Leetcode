@@ -1,12 +1,5 @@
 class Solution:
     def maxDistance(self, nums1: List[int], nums2: List[int]) -> int:
-        """
-
-        55, 100
-        5, 10 | 5, 10 | 5, 5
-
-
-        """
         ans = 0
 
         for i in range(len(nums1)):
