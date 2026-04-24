@@ -1,6 +1,3 @@
 class Solution:
     def furthestDistanceFromOrigin(self, moves: str) -> int:
-        left = moves.count("L")
-        right = moves.count("R")
-
-        return len(moves) - (min(left, right) * 2)
+        return len(moves) - (min(moves.count("L"), moves.count("R")) * 2)
