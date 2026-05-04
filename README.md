@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bashlogs/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/bashlogs/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/bashlogs/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bashlogs/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bashlogs/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bashlogs/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/bashlogs/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/bashlogs/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/bashlogs/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/bashlogs/Leetcode/tree/main/0788-rotated-digits/) | Medium |
