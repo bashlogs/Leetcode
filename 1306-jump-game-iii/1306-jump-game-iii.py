@@ -1,28 +1,16 @@
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:
-        left = {}
-        right = {}
-        def solve(curr):
-            if curr in left and curr in right:
+        visited = set()
+        
+        def solve(i):
+            if i < 0 or i > len(arr) - 1 or i in visited:
                 return False
             
-            if arr[curr] == 0:
+            if arr[i] == 0:
                 return True
             
-            if curr not in left and arr[curr] <= curr:
-                left[curr] = False
-                left[curr] = solve(curr - arr[curr])
-            
-            if curr not in right and curr + arr[curr] < len(arr):
-                right[curr] = False
-                right[curr] = solve(curr + arr[curr])
-            
-            if curr not in left:
-                left[curr] = False
-            
-            if curr not in right:
-                right[curr] = False
-                
-            return left[curr] or right[curr]
+            visited.add(i)
+
+            return solve(i-arr[i]) or solve(i+arr[i])
             
         return solve(start)
