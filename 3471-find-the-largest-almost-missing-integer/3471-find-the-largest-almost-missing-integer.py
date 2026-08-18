@@ -15,15 +15,21 @@ class Solution:
 
         """
         counter = defaultdict(int)
-        for i in range(k - 1, len(nums)):
-            
-            visited = set()
+        window = defaultdict(int)
 
-            for j in range((i+1) - k, i+1):
-                if nums[j] not in visited:
-                    counter[nums[j]] += 1
-                    visited.add(nums[j])
-        
+        for i in range(len(nums)):
+            if i - k >= 0:
+                window[nums[i-k]] -= 1
+                if window[nums[i-k]] == 0:
+                    del window[nums[i-k]]
+                    
+            window[nums[i]] += 1
+
+            if (i+1) - k >= 0:
+                for key in window.keys():
+                    counter[key] += 1
+
+        print(counter)
         ans = -1
         for key, val in counter.items():
             if val == 1:
