@@ -24,7 +24,6 @@ class Solution:
                     counter[nums[j]] += 1
                     visited.add(nums[j])
         
-        print(counter)
         ans = -1
         for key, val in counter.items():
             if val == 1:
