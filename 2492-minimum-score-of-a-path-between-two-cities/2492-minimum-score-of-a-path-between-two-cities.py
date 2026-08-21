@@ -1,11 +1,5 @@
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
-        """
-
-        dict with tuples
-
-        """
-
         graph = defaultdict(list)
 
         for i, j, k in roads:
