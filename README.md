@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bashlogs/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bashlogs/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bashlogs/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bashlogs/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/bashlogs/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bashlogs/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/bashlogs/Leetcode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2615-sum-of-distances](https://github.com/bashlogs/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bashlogs/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/bashlogs/Leetcode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bashlogs/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Geometry
