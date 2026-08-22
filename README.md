@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bashlogs/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bashlogs/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bashlogs/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/bashlogs/Leetcode/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bashlogs/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/bashlogs/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bashlogs/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bashlogs/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bashlogs/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bashlogs/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/bashlogs/Leetcode/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bashlogs/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/bashlogs/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
