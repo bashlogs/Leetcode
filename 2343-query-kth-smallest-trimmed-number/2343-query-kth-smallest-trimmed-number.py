@@ -11,7 +11,7 @@ class Solution:
                 for i in range(len(nums)):
                     trimmed_nums.append((int(nums[i][len(nums[i])-l:len(nums[i])]), i))
                 
-                trimmed_nums.sort(key=lambda x: (x[0], x[1]))
+                trimmed_nums.sort(key=lambda x: x[0])
                 cache[l] = trimmed_nums
             
                 ans.append(trimmed_nums[k-1][1])
