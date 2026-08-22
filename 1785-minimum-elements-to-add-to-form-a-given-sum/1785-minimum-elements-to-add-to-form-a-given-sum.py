@@ -4,8 +4,4 @@ class Solution:
         need = abs(goal - total)
         div = need//limit
         rem = need%limit
-
-        if rem:
-            return div + 1
-        else:
-            return div
+        return div + 1 if rem else div
