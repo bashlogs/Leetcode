@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bashlogs/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bashlogs/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/bashlogs/Leetcode/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1927-sum-game](https://github.com/bashlogs/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bashlogs/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/bashlogs/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bashlogs/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bashlogs/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/bashlogs/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bashlogs/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/bashlogs/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/bashlogs/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bashlogs/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1927-sum-game](https://github.com/bashlogs/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bashlogs/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bashlogs/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bashlogs/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -460,4 +463,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/bashlogs/Leetcode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/bashlogs/Leetcode/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
