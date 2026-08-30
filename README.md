@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/bashlogs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bashlogs/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bashlogs/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bashlogs/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/bashlogs/Leetcode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bashlogs/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bashlogs/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/bashlogs/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/bashlogs/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bashlogs/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bashlogs/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bashlogs/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bashlogs/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bashlogs/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
