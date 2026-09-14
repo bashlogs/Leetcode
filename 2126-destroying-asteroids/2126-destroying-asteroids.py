@@ -3,7 +3,9 @@ class Solution:
         asteroids.sort()
 
         for asteroid in asteroids:
-            if mass >= asteroid:
+            if mass >= asteroids[-1]:
+                return True
+            elif mass >= asteroid:
                 mass += asteroid
             else:
                 return False
