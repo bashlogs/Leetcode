@@ -6,11 +6,7 @@ class Solution:
         maximum = None
 
         for i in range(len(weight)):
-            if maximum == None:
-                maximum = weight[i]
-                continue
-            
-            if weight[i] < maximum:
+            if maximum != None and weight[i] < maximum:
                 count += 1
                 maximum = None
             else:
